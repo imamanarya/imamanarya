@@ -115,7 +115,7 @@
         <div class="section">
             <h2>Contact Me</h2>
             <p>Email: <a href="mailto:amanarya@example.com">amanarya80100@gmail.com</a></p>
-            <p>Instagram: <a href="https://www.instagram.com/i_am_amanarya" target="_blank">@imamanarya</a></p>
+            <p>Instagram: <a href="https://www.instagram.com/imamanarya" target="_blank">@imamanarya</a></p>
             <p>Fiverr: <a href="https://www.fiverr.com" target="_blank">AmanArya_Fiverr</a></p>
             <p>YouTube: <a href="https://www.youtube.com" target="_blank">Aman Arya</a></p>
         </div>
